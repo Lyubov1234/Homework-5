@@ -1,0 +1,112 @@
+.about {
+    max-width: 1170px;
+    padding: 0 15px;
+    background-color: #F5F5F5;
+}
+.about__title {
+    font-family: 'Raleway';
+    padding: 30px;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.about__line {
+    border: 1px solid #EC7979;
+    width: 170px;
+    margin:0 auto;
+}
+
+    .about__text {
+    padding: 40px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #86878B;
+    }
+    
+
+.about-pricing {
+display: flex; 
+justify-content: center;
+margin-top: 30px;
+ 
+}
+
+.pricing-card {
+text-align: center;
+width: 350px;
+margin:15px;
+
+}
+
+.tarif 
+{
+font-family: 'Open Sans';
+font-size: 24px;
+font-weight: 700;
+width: 350px;
+height: 50px;
+text-align: center;
+color: #F5F5F5;
+border: 2px solid #F5F5F5;
+background-color: #333333;
+padding-top: 20px;
+}
+
+.price {
+    font-family: 'Open Sans';
+    font-size: 36px;
+    font-weight: 700;
+    width: 350px;
+    height: 70px;
+    text-align: center;
+    color: #F5F5F5;
+    border: 2px solid #F5F5F5;
+    background-color: #333333;
+    padding-top: 25px;
+}
+
+.inform {
+font-family: 'Raleway';
+font-size: 14px;
+font-weight: 400;
+width: 350px;
+height: 30px;
+text-align: center;
+color: #F5F5F5;
+border: 2px solid #F5F5F5;
+background-color: #333333;
+padding-top: 15px;
+
+}
+.inform-pricing {
+list-style-type: none;
+margin-left: -40px;
+
+
+
+}
+
+ul.inform-pricing li {
+font-family: 'Raleway';
+font-style: normal;
+color:#86878B;
+font-weight: 400;
+font-size: 18px;   
+width: 350px;
+height: 30px;
+text-align: center;
+text-transform: capitalize;
+border: 2px solid #F5F5F5;
+background: #FFFFFF;
+padding-top: 13px;
+}
+
+.pricing-card-one {
+    margin-top: -15px;
+    box-shadow: 0.4em 0.4em 25px rgba(122,122,122,0.5);
+
+}
